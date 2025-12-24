@@ -12,8 +12,7 @@
         <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
             <div class="mb-8 flex flex-col items-center justify-between gap-4 md:flex-row">
                 <div>
-                    <h3 class="text-lg font-bold text-gray-700">Oferta Académica</h3>
-                    <p class="text-sm text-gray-500">Administra los detalles de los cursos disponibles.</p>
+                    <h3 class="text-lg font-bold text-gray-700">Administra los detalles de los cursos disponibles.</h3>
                 </div>
                 <button
                     @click="openCreateModal()"
